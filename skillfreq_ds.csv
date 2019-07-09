@@ -1,0 +1,89 @@
+skillset,skill,frequency
+Programming Languages,python,623
+Programming Languages,r,478
+Programming Languages,sql,556
+Programming Languages,mysql,32
+Programming Languages,java,196
+Programming Languages,c,113
+Programming Languages,c++,119
+Programming Languages,c#,25
+Programming Languages,scala,209
+Programming Languages,perl,36
+Programming Languages,julia,8
+Programming Languages,javascript,34
+Programming Languages,html,26
+Programming Languages,css,17
+Programming Languages,php,16
+Programming Languages,ruby,17
+Programming Languages, lua ,0
+Programming Languages,matlab,65
+Programming Languages,sas,160
+Big Data Technologies,hadoop,172
+Big Data Technologies,mapreduce,18
+Big Data Technologies,hive,103
+Big Data Technologies,pig,22
+Big Data Technologies,cascading,0
+Big Data Technologies,scalding,2
+Big Data Technologies,cascalog,0
+Big Data Technologies,hbase,16
+Big Data Technologies,sqoop,2
+Big Data Technologies,mahout,6
+Big Data Technologies,oozie,1
+Big Data Technologies,flume,3
+Big Data Technologies,zookeeper,1
+Big Data Technologies,spark,254
+Big Data Technologies,storm,17
+Big Data Technologies,shark,0
+Big Data Technologies,impala,5
+Big Data Technologies,elasticsearch,15
+Big Data Technologies,kafka,24
+Big Data Technologies,flink,5
+Big Data Technologies,kinesis,3
+Big Data Technologies,presto,14
+Big Data Technologies,hume,0
+Big Data Technologies,airflow,10
+Big Data Technologies,azkabhan,0
+Big Data Technologies,luigi,1
+Big Data Technologies,cassandra,13
+Deep Learning Frameworks,tensorflow,115
+Deep Learning Frameworks,keras,49
+Deep Learning Frameworks,pytorch,48
+Deep Learning Frameworks,theano,22
+Deep Learning Frameworks,deeplearning4j,4
+Deep Learning Frameworks,caffe,30
+Deep Learning Frameworks,tflearn,0
+Deep Learning Frameworks,torch,57
+Deep Learning Frameworks,opencv,5
+Deep Learning Frameworks,mxnet,25
+Deep Learning Frameworks,microsoft cognitive toolkit,0
+Deep Learning Frameworks,lasagne,0
+Cloud Computing Platforms,aws,452
+Cloud Computing Platforms,gcp,25
+Cloud Computing Platforms,azure,56
+Machine Learning Application,natural language processing,110
+Machine Learning Application,computer vision,62
+Machine Learning Application,speech recognition,11
+Machine Learning Application,fraud detection,34
+Machine Learning Application,recommender system,13
+Machine Learning Application,image recognition,2
+Machine Learning Application,object dectection,0
+Machine Learning Application,chatbot,2
+Machine Learning Application,sentiment analysis,5
+Visualization Tools,dimple,0
+Visualization Tools,d3.js,7
+Visualization Tools,ggplot,13
+Visualization Tools,shiny,14
+Visualization Tools,plotly,2
+Visualization Tools,matplotlib,18
+Visualization Tools,seaborn,8
+Visualization Tools,bokeh,3
+Visualization Tools,tableau,139
+Other,pandas,43
+Other,numpy,26
+Other,scipy,14
+Other,sklearn,7
+Other,scikit-learn,0
+Other,docker,29
+Other,git,392
+Other,jira,4
+Other,kaggle,5

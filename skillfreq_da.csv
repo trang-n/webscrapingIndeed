@@ -1,0 +1,89 @@
+skillset,skill,frequency
+Programming Languages,python,213
+Programming Languages,r,217
+Programming Languages,sql,624
+Programming Languages,mysql,20
+Programming Languages,java,55
+Programming Languages,c,34
+Programming Languages,c++,13
+Programming Languages,c#,1
+Programming Languages,scala,94
+Programming Languages,perl,20
+Programming Languages,julia,1
+Programming Languages,javascript,32
+Programming Languages,html,27
+Programming Languages,css,8
+Programming Languages,php,7
+Programming Languages,ruby,4
+Programming Languages, lua ,0
+Programming Languages,matlab,18
+Programming Languages,sas,193
+Big Data Technologies,hadoop,31
+Big Data Technologies,mapreduce,3
+Big Data Technologies,hive,19
+Big Data Technologies,pig,10
+Big Data Technologies,cascading,0
+Big Data Technologies,scalding,0
+Big Data Technologies,cascalog,0
+Big Data Technologies,hbase,1
+Big Data Technologies,sqoop,0
+Big Data Technologies,mahout,0
+Big Data Technologies,oozie,0
+Big Data Technologies,flume,0
+Big Data Technologies,zookeeper,0
+Big Data Technologies,spark,21
+Big Data Technologies,storm,9
+Big Data Technologies,shark,0
+Big Data Technologies,impala,1
+Big Data Technologies,elasticsearch,2
+Big Data Technologies,kafka,4
+Big Data Technologies,flink,0
+Big Data Technologies,kinesis,2
+Big Data Technologies,presto,1
+Big Data Technologies,hume,0
+Big Data Technologies,airflow,5
+Big Data Technologies,azkabhan,0
+Big Data Technologies,luigi,0
+Big Data Technologies,cassandra,1
+Deep Learning Frameworks,tensorflow,3
+Deep Learning Frameworks,keras,1
+Deep Learning Frameworks,pytorch,0
+Deep Learning Frameworks,theano,1
+Deep Learning Frameworks,deeplearning4j,0
+Deep Learning Frameworks,caffe,7
+Deep Learning Frameworks,tflearn,0
+Deep Learning Frameworks,torch,0
+Deep Learning Frameworks,opencv,0
+Deep Learning Frameworks,mxnet,1
+Deep Learning Frameworks,microsoft cognitive toolkit,0
+Deep Learning Frameworks,lasagne,0
+Cloud Computing Platforms,aws,111
+Cloud Computing Platforms,gcp,2
+Cloud Computing Platforms,azure,10
+Machine Learning Application,natural language processing,5
+Machine Learning Application,computer vision,2
+Machine Learning Application,speech recognition,0
+Machine Learning Application,fraud detection,4
+Machine Learning Application,recommender system,0
+Machine Learning Application,image recognition,0
+Machine Learning Application,object dectection,0
+Machine Learning Application,chatbot,0
+Machine Learning Application,sentiment analysis,0
+Visualization Tools,dimple,0
+Visualization Tools,d3.js,0
+Visualization Tools,ggplot,1
+Visualization Tools,shiny,1
+Visualization Tools,plotly,1
+Visualization Tools,matplotlib,4
+Visualization Tools,seaborn,1
+Visualization Tools,bokeh,0
+Visualization Tools,tableau,244
+Other,pandas,10
+Other,numpy,2
+Other,scipy,1
+Other,sklearn,0
+Other,scikit-learn,0
+Other,docker,5
+Other,git,271
+Other,jira,17
+Other,kaggle,0

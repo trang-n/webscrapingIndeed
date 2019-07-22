@@ -45,7 +45,8 @@ def frequency(tocheck_dict, string_list):
                 skill_name = ' ' + skill.lower() + ' '
             else:
                 skill_name = skill.lower()
-            freq[category][skill] = text.count(skill_name) #counting the occurance
+            freq[category][skill] = text.count(skill_name) 
+            #percentage for interpretability.
             
     return freq
         

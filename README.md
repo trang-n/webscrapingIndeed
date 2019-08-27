@@ -1,2 +1,2 @@
-# webscrapingIndeed
-Scraping Indeed for skills in demand
+# Initial page
+
